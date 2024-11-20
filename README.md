@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Kelly Sirqueira, I work as QA Engineer and I appreciate continuous learning in technology-related topics.
+I'm Kelly Brady, I work as QA Engineer and I appreciate continuous learning in technology-related topics.
 
 
 
